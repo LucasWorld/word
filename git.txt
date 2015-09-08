@@ -1,0 +1,15 @@
+appendices 附录
+In Chapter 1, we’re going to cover Version Control Systems (VCSs) and Git
+basics—no technical stuff, just what Git is, why it came about in a land full of
+VCSs, what sets it apart, and why so many people are using it. Then, we’ll explain
+how to download Git and set it up for the first time if you don’t already
+have it on your system.
+spontaneously
+combusts
+
+
+If the book spontaneously combusts at
+this point, you should already be pretty useful wielding Git in the time it takes
+you to go pick up another copy.
+
+
